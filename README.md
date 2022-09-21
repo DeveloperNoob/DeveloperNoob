@@ -1,8 +1,8 @@
-<h2> Hello 👋 (नमस्ते) 👋💜✋<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <p><em>Coding Lover<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
+<h2> Hello 👋 (Alister) 👋💜✋<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <p><em>Coding Lover<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 [![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/MrBotDeveloper) [![telegram badge](https://img.shields.io/badge/MrBotDeveloper-30302f?style=flat&logo=telegram)](https://telegram.dog/MrBot_Developer)
 
-<p align="left"> <a href="https://github.com/MrBotDeveloper/"><img width="220px" height="35" src="https://komarev.com/ghpvc/?username=MrBotDeveloper&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="MrBotDeveloper" /></a> </p><br>
+<p align="left"> <a href="https://github.com/MrBotDeveloper/"><img width="21000px" height="1135" src="https://komarev.com/ghpvc/?username=MrBotDeveloper&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="MrBotDeveloper" /></a> </p><br>
 
 ⚡☆★☆★☆★☆★☆★☆★☆★☆★⚡
 
@@ -45,16 +45,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Telegram](https://t.me/Mr_Pro_Noob)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-## ⚡ GitHub Recent Activities 
-
-<!--START_SECTION:activity-->
-
-
-1. 🎉 Merged PR [#168](https://github.com/MrBotDeveloper/PDF-Bot/pull/168) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-2. 🎉 Merged PR [#167](https://github.com/MrBotDeveloper/PDF-Bot/pull/167) in [MrBotDeveloper/PDF-Bot](https://github.com/MrBotDeveloper/PDF-Bot)
-3. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-4. ❗️ Closed issue [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-5. 🗣 Commented on [#2024](https://github.com/yt-dlp/yt-dlp/issues/2024) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-<!--END_SECTION:activity-->
